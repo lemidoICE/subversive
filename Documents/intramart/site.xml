@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="https://community.polarion.com/projects/subversive/download/eclipse/5.0/update-site/">
+      SVN connectors for the Eclipse Subversive - SVN Team Provider
+   </description>
+   <feature url="features/org.polarion.eclipse.team.svn.connector_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.svnkit17_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.svnkit17" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl17_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl17" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl17.win32_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl17.win32" version="5.0.3.I20160701-1700" os="win32" arch="x86">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl17.win64_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl17.win64" version="5.0.3.I20160701-1700" os="win32" arch="x86_64">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.svnkit18_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.svnkit18" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl18_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl18" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl18.win32_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl18.win32" version="5.0.3.I20160701-1700" os="win32" arch="x86">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl18.win64_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl18.win64" version="5.0.3.I20160701-1700" os="win32" arch="x86_64">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl19_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl19" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl19.win32_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl19.win32" version="5.0.3.I20160701-1700" os="win32" arch="x86">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.javahl19.win64_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.javahl19.win64" version="5.0.3.I20160701-1700" os="win32" arch="x86_64">
+      <category name="Subversive Connectors"/>
+   </feature>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.source_5.0.3.I20160701-1700.jar" id="org.polarion.eclipse.team.svn.connector.source" version="5.0.3.I20160701-1700">
+      <category name="Subversive Connectors Sources"/>
+   </feature>
+   <category-def name="Subversive Connectors" label="Subversive SVN Connectors">
+      <description>
+         SVN connectors for the Eclipse Subversive project. SVN 1.7 and SVN 1.8 compatible connectors support Subversion version 1.7 and 1.8 respectively.
+      </description>
+   </category-def>
+   <category-def name="Subversive Connectors Sources" label="Subversive SVN Connectors Sources">
+      <description>
+         The sources of the SVN connectors for the Eclipse Subversive.
+      </description>
+   </category-def>
+</site>
